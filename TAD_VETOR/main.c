@@ -15,7 +15,7 @@ int main(){
 	vet_imprimir(v); // [10,15,20,30]
 	
 	vet_inserir(v, 5, 0);
-
+    
 	vet_imprimir(v); // [5,10,15,20,30]
 	printf("\n");
 	int elemento;
